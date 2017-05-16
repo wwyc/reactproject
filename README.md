@@ -1,1 +1,5 @@
 Followed tutorial:  https://www.youtube.com/watch?v=c6t3bW7kx6E
+
+1) In command line:  git clone
+2) In command line: npm start
+3) Open web browser and enter: http://localhost:3000/
